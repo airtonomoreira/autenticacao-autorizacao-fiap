@@ -1,0 +1,1042 @@
+{
+  "Version": 1,
+  "Hash": "MsizWW/Olo4rVCdoE5Iieh6XDMazreFsVB0HR0WREXU=",
+  "Source": "Auth",
+  "BasePath": "_content/Auth",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Auth/wwwroot",
+      "Source": "Auth",
+      "ContentRoot": "/home/airton/git/FIAp-review/autenticacao-autorizacao-fiap/Auth/wwwroot/",
+      "BasePath": "_content/Auth",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/home/airton/git/FIAp-review/autenticacao-autorizacao-fiap/Auth/obj/Debug/net9.0/compressed/47pdmucdtc-kjms355mt1.gz",
+      "SourceId": "Auth",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/airton/git/FIAp-review/autenticacao-autorizacao-fiap/Auth/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/Auth",
+      "RelativePath": "script#[.{fingerprint=kjms355mt1}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/home/airton/git/FIAp-review/autenticacao-autorizacao-fiap/Auth/wwwroot/script.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "2kivlh4cjn",
+      "Integrity": "TjcUes09t0up+Li27MVvznVsxaJCQg4J4amq20ep1N0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/home/airton/git/FIAp-review/autenticacao-autorizacao-fiap/Auth/wwwroot/script.js"
+    },
+    {
+      "Identity": "/home/airton/git/FIAp-review/autenticacao-autorizacao-fiap/Auth/obj/Debug/net9.0/compressed/gx8n6q7zni-ebh42azb2u.gz",
+      "SourceId": "Auth",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/airton/git/FIAp-review/autenticacao-autorizacao-fiap/Auth/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/Auth",
+      "RelativePath": "style#[.{fingerprint=ebh42azb2u}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/home/airton/git/FIAp-review/autenticacao-autorizacao-fiap/Auth/wwwroot/style.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "kmljun16rv",
+      "Integrity": "PB6f4z4F3NBRhOgdYU9eGtjCC7LB9PgY3vmlIOebTno=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/home/airton/git/FIAp-review/autenticacao-autorizacao-fiap/Auth/wwwroot/style.css"
+    },
+    {
+      "Identity": "/home/airton/git/FIAp-review/autenticacao-autorizacao-fiap/Auth/obj/Debug/net9.0/compressed/ovmto47xaq-9c1gyaw3ef.gz",
+      "SourceId": "Auth",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/airton/git/FIAp-review/autenticacao-autorizacao-fiap/Auth/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/Auth",
+      "RelativePath": "index#[.{fingerprint=9c1gyaw3ef}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/home/airton/git/FIAp-review/autenticacao-autorizacao-fiap/Auth/wwwroot/index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "x2q6xyf5i7",
+      "Integrity": "iYIDzP/tl+p9OKGu75OXo0v3d9XLe+Es0Sd0a5rSbxM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/home/airton/git/FIAp-review/autenticacao-autorizacao-fiap/Auth/wwwroot/index.html"
+    },
+    {
+      "Identity": "/home/airton/git/FIAp-review/autenticacao-autorizacao-fiap/Auth/wwwroot/index.html",
+      "SourceId": "Auth",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/airton/git/FIAp-review/autenticacao-autorizacao-fiap/Auth/wwwroot/",
+      "BasePath": "_content/Auth",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9c1gyaw3ef",
+      "Integrity": "Nwv8aj6Bnfy9oCNCsgA2pvoBKizT7K0Y2C0X9lb4GzM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/index.html"
+    },
+    {
+      "Identity": "/home/airton/git/FIAp-review/autenticacao-autorizacao-fiap/Auth/wwwroot/script.js",
+      "SourceId": "Auth",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/airton/git/FIAp-review/autenticacao-autorizacao-fiap/Auth/wwwroot/",
+      "BasePath": "_content/Auth",
+      "RelativePath": "script#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "kjms355mt1",
+      "Integrity": "IEjM5OhZEXJAhZGVDV50U/TQq4e1QZa1yCQxE3MJvWo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/script.js"
+    },
+    {
+      "Identity": "/home/airton/git/FIAp-review/autenticacao-autorizacao-fiap/Auth/wwwroot/style.css",
+      "SourceId": "Auth",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/airton/git/FIAp-review/autenticacao-autorizacao-fiap/Auth/wwwroot/",
+      "BasePath": "_content/Auth",
+      "RelativePath": "style#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ebh42azb2u",
+      "Integrity": "VjVJPswBJMGbxI3t1GyGci8kvQMSqkp7GQv96rvXBSM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/style.css"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "index.9c1gyaw3ef.html",
+      "AssetFile": "/home/airton/git/FIAp-review/autenticacao-autorizacao-fiap/Auth/obj/Debug/net9.0/compressed/ovmto47xaq-9c1gyaw3ef.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000680272109"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1469"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iYIDzP/tl+p9OKGu75OXo0v3d9XLe+Es0Sd0a5rSbxM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 11 Jan 2026 19:44:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Nwv8aj6Bnfy9oCNCsgA2pvoBKizT7K0Y2C0X9lb4GzM=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9c1gyaw3ef"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Nwv8aj6Bnfy9oCNCsgA2pvoBKizT7K0Y2C0X9lb4GzM="
+        }
+      ]
+    },
+    {
+      "Route": "index.9c1gyaw3ef.html",
+      "AssetFile": "/home/airton/git/FIAp-review/autenticacao-autorizacao-fiap/Auth/wwwroot/index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4164"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Nwv8aj6Bnfy9oCNCsgA2pvoBKizT7K0Y2C0X9lb4GzM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 11 Jan 2026 19:44:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9c1gyaw3ef"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Nwv8aj6Bnfy9oCNCsgA2pvoBKizT7K0Y2C0X9lb4GzM="
+        }
+      ]
+    },
+    {
+      "Route": "index.9c1gyaw3ef.html.gz",
+      "AssetFile": "/home/airton/git/FIAp-review/autenticacao-autorizacao-fiap/Auth/obj/Debug/net9.0/compressed/ovmto47xaq-9c1gyaw3ef.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1469"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iYIDzP/tl+p9OKGu75OXo0v3d9XLe+Es0Sd0a5rSbxM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 11 Jan 2026 19:44:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9c1gyaw3ef"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-iYIDzP/tl+p9OKGu75OXo0v3d9XLe+Es0Sd0a5rSbxM="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "/home/airton/git/FIAp-review/autenticacao-autorizacao-fiap/Auth/obj/Debug/net9.0/compressed/ovmto47xaq-9c1gyaw3ef.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000680272109"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1469"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iYIDzP/tl+p9OKGu75OXo0v3d9XLe+Es0Sd0a5rSbxM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 11 Jan 2026 19:44:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Nwv8aj6Bnfy9oCNCsgA2pvoBKizT7K0Y2C0X9lb4GzM=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Nwv8aj6Bnfy9oCNCsgA2pvoBKizT7K0Y2C0X9lb4GzM="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "/home/airton/git/FIAp-review/autenticacao-autorizacao-fiap/Auth/wwwroot/index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4164"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Nwv8aj6Bnfy9oCNCsgA2pvoBKizT7K0Y2C0X9lb4GzM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 11 Jan 2026 19:44:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Nwv8aj6Bnfy9oCNCsgA2pvoBKizT7K0Y2C0X9lb4GzM="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.gz",
+      "AssetFile": "/home/airton/git/FIAp-review/autenticacao-autorizacao-fiap/Auth/obj/Debug/net9.0/compressed/ovmto47xaq-9c1gyaw3ef.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1469"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iYIDzP/tl+p9OKGu75OXo0v3d9XLe+Es0Sd0a5rSbxM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 11 Jan 2026 19:44:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-iYIDzP/tl+p9OKGu75OXo0v3d9XLe+Es0Sd0a5rSbxM="
+        }
+      ]
+    },
+    {
+      "Route": "script.js",
+      "AssetFile": "/home/airton/git/FIAp-review/autenticacao-autorizacao-fiap/Auth/obj/Debug/net9.0/compressed/47pdmucdtc-kjms355mt1.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001219512195"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "819"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TjcUes09t0up+Li27MVvznVsxaJCQg4J4amq20ep1N0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 11 Jan 2026 19:46:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"IEjM5OhZEXJAhZGVDV50U/TQq4e1QZa1yCQxE3MJvWo=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-IEjM5OhZEXJAhZGVDV50U/TQq4e1QZa1yCQxE3MJvWo="
+        }
+      ]
+    },
+    {
+      "Route": "script.js",
+      "AssetFile": "/home/airton/git/FIAp-review/autenticacao-autorizacao-fiap/Auth/wwwroot/script.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2630"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IEjM5OhZEXJAhZGVDV50U/TQq4e1QZa1yCQxE3MJvWo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 11 Jan 2026 19:46:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-IEjM5OhZEXJAhZGVDV50U/TQq4e1QZa1yCQxE3MJvWo="
+        }
+      ]
+    },
+    {
+      "Route": "script.js.gz",
+      "AssetFile": "/home/airton/git/FIAp-review/autenticacao-autorizacao-fiap/Auth/obj/Debug/net9.0/compressed/47pdmucdtc-kjms355mt1.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "819"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TjcUes09t0up+Li27MVvznVsxaJCQg4J4amq20ep1N0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 11 Jan 2026 19:46:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TjcUes09t0up+Li27MVvznVsxaJCQg4J4amq20ep1N0="
+        }
+      ]
+    },
+    {
+      "Route": "script.kjms355mt1.js",
+      "AssetFile": "/home/airton/git/FIAp-review/autenticacao-autorizacao-fiap/Auth/obj/Debug/net9.0/compressed/47pdmucdtc-kjms355mt1.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001219512195"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "819"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TjcUes09t0up+Li27MVvznVsxaJCQg4J4amq20ep1N0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 11 Jan 2026 19:46:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"IEjM5OhZEXJAhZGVDV50U/TQq4e1QZa1yCQxE3MJvWo=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kjms355mt1"
+        },
+        {
+          "Name": "label",
+          "Value": "script.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-IEjM5OhZEXJAhZGVDV50U/TQq4e1QZa1yCQxE3MJvWo="
+        }
+      ]
+    },
+    {
+      "Route": "script.kjms355mt1.js",
+      "AssetFile": "/home/airton/git/FIAp-review/autenticacao-autorizacao-fiap/Auth/wwwroot/script.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2630"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IEjM5OhZEXJAhZGVDV50U/TQq4e1QZa1yCQxE3MJvWo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 11 Jan 2026 19:46:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kjms355mt1"
+        },
+        {
+          "Name": "label",
+          "Value": "script.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-IEjM5OhZEXJAhZGVDV50U/TQq4e1QZa1yCQxE3MJvWo="
+        }
+      ]
+    },
+    {
+      "Route": "script.kjms355mt1.js.gz",
+      "AssetFile": "/home/airton/git/FIAp-review/autenticacao-autorizacao-fiap/Auth/obj/Debug/net9.0/compressed/47pdmucdtc-kjms355mt1.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "819"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TjcUes09t0up+Li27MVvznVsxaJCQg4J4amq20ep1N0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 11 Jan 2026 19:46:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kjms355mt1"
+        },
+        {
+          "Name": "label",
+          "Value": "script.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-TjcUes09t0up+Li27MVvznVsxaJCQg4J4amq20ep1N0="
+        }
+      ]
+    },
+    {
+      "Route": "style.css",
+      "AssetFile": "/home/airton/git/FIAp-review/autenticacao-autorizacao-fiap/Auth/obj/Debug/net9.0/compressed/gx8n6q7zni-ebh42azb2u.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001118568233"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "893"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PB6f4z4F3NBRhOgdYU9eGtjCC7LB9PgY3vmlIOebTno=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 11 Jan 2026 19:48:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"VjVJPswBJMGbxI3t1GyGci8kvQMSqkp7GQv96rvXBSM=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VjVJPswBJMGbxI3t1GyGci8kvQMSqkp7GQv96rvXBSM="
+        }
+      ]
+    },
+    {
+      "Route": "style.css",
+      "AssetFile": "/home/airton/git/FIAp-review/autenticacao-autorizacao-fiap/Auth/wwwroot/style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2533"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VjVJPswBJMGbxI3t1GyGci8kvQMSqkp7GQv96rvXBSM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 11 Jan 2026 19:48:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VjVJPswBJMGbxI3t1GyGci8kvQMSqkp7GQv96rvXBSM="
+        }
+      ]
+    },
+    {
+      "Route": "style.css.gz",
+      "AssetFile": "/home/airton/git/FIAp-review/autenticacao-autorizacao-fiap/Auth/obj/Debug/net9.0/compressed/gx8n6q7zni-ebh42azb2u.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "893"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PB6f4z4F3NBRhOgdYU9eGtjCC7LB9PgY3vmlIOebTno=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 11 Jan 2026 19:48:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-PB6f4z4F3NBRhOgdYU9eGtjCC7LB9PgY3vmlIOebTno="
+        }
+      ]
+    },
+    {
+      "Route": "style.ebh42azb2u.css",
+      "AssetFile": "/home/airton/git/FIAp-review/autenticacao-autorizacao-fiap/Auth/obj/Debug/net9.0/compressed/gx8n6q7zni-ebh42azb2u.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001118568233"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "893"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PB6f4z4F3NBRhOgdYU9eGtjCC7LB9PgY3vmlIOebTno=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 11 Jan 2026 19:48:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"VjVJPswBJMGbxI3t1GyGci8kvQMSqkp7GQv96rvXBSM=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ebh42azb2u"
+        },
+        {
+          "Name": "label",
+          "Value": "style.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-VjVJPswBJMGbxI3t1GyGci8kvQMSqkp7GQv96rvXBSM="
+        }
+      ]
+    },
+    {
+      "Route": "style.ebh42azb2u.css",
+      "AssetFile": "/home/airton/git/FIAp-review/autenticacao-autorizacao-fiap/Auth/wwwroot/style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2533"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VjVJPswBJMGbxI3t1GyGci8kvQMSqkp7GQv96rvXBSM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 11 Jan 2026 19:48:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ebh42azb2u"
+        },
+        {
+          "Name": "label",
+          "Value": "style.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-VjVJPswBJMGbxI3t1GyGci8kvQMSqkp7GQv96rvXBSM="
+        }
+      ]
+    },
+    {
+      "Route": "style.ebh42azb2u.css.gz",
+      "AssetFile": "/home/airton/git/FIAp-review/autenticacao-autorizacao-fiap/Auth/obj/Debug/net9.0/compressed/gx8n6q7zni-ebh42azb2u.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "893"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PB6f4z4F3NBRhOgdYU9eGtjCC7LB9PgY3vmlIOebTno=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 11 Jan 2026 19:48:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ebh42azb2u"
+        },
+        {
+          "Name": "label",
+          "Value": "style.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-PB6f4z4F3NBRhOgdYU9eGtjCC7LB9PgY3vmlIOebTno="
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "/home/airton/git/FIAp-review/autenticacao-autorizacao-fiap/Auth/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "/home/airton/git/FIAp-review/autenticacao-autorizacao-fiap/Auth/wwwroot/script.js",
+      "PackagePath": "staticwebassets/script.js"
+    },
+    {
+      "Id": "/home/airton/git/FIAp-review/autenticacao-autorizacao-fiap/Auth/wwwroot/style.css",
+      "PackagePath": "staticwebassets/style.css"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.Auth.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.Auth.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.build.Auth.props",
+      "PackagePath": "build\\Auth.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.Auth.props",
+      "PackagePath": "buildMultiTargeting\\Auth.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.Auth.props",
+      "PackagePath": "buildTransitive\\Auth.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
